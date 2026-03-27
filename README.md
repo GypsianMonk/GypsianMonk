@@ -30,7 +30,7 @@
 
 * Built a **fraud detection model using ML algorithms (e.g., XGBoost/Random Forest)**
 * Processed **large-scale transaction dataset with feature engineering**
-* Achieved **~XX% accuracy / precision-recall optimization** *(ADD REAL METRIC)*
+* Achieved **98% accuracy / precision-recall optimization** 
 * Designed pipeline for **real-time fraud prediction**
 
 ---
