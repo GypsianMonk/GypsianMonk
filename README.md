@@ -19,7 +19,7 @@
 ## ◈ About Me
 
 ```python
-class AmitMaheshwari:
+class AmitChaudhary:
     role        = "AI/ML Engineer"
     focus       = ["GenAI", "RAG Pipelines", "Multi-Agent Systems", "MLOps"]
     interests   = ["Fraud Detection", "Applied AI", "LLM Engineering"]
